@@ -1,0 +1,1 @@
+The repository contains seven code files. We have implemented three models: CNN, SCNN1, and SNN2. Additionally, we utilized Grad-CAM for visualizing model predictions. Using the model weights, we separately generated the ROC Curve and confusion matrix for each of the three models, which have been uploaded as separate files.
